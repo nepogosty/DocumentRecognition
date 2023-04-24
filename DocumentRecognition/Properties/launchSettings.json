@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocumentRecognition": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
